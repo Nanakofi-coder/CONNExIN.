@@ -1,2 +1,0 @@
-# CONNExIN
-Functional MRI
